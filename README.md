@@ -1,8 +1,6 @@
 # Overview
 
-
-
-This program prints Hello world in python. 
+I worte a Hello World! programme in Python. It prints out the Hello World!
 
 
 [Software Demo Video](https://youtu.be/PWQEbWJpY3s)
