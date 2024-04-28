@@ -1,14 +1,11 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+
 
 This program prints Hello world in python. 
 
 
-
-
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/PWQEbWJpY3s)
 
 # Development Environment
 
